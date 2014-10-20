@@ -6,10 +6,6 @@
   * [[LANGCODE:home|Door43 (LANGCODE)]]
   * [[en:license|License]]
 
-**Resources**
-
-  * [[LANGCODE:obs|Open Bible Stories (LANGCODE)]]
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-LANGCODE|d43-LANGCODE repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-LANGCODE/archive/master.zip|d43-LANGCODE.zip]]
@@ -17,6 +13,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = LANGCODE}}
 
-**Latest Status**
-{{page>en:uwadmin:LANGCODE:obs:status}}
+**Language Information**
+
+[[http://www.ethnologue.com/language/LANGCODE|Ethnologue data]]
 
